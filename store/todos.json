@@ -1,5 +1,1 @@
-[
-	{ "id": 1, "name": "Do sth", "isCompleted": false },
-	{ "id": 2, "name": "Do sth", "isCompleted": false },
-	{ "id": 3, "name": "Do sth", "isCompleted": true }
-]
+[{"id":1,"name":"Do sth","isCompleted":true},{"id":2,"name":"Do sth","isCompleted":false},{"id":3,"name":"Do sth","isCompleted":true},{"id":3,"name":"does it work?","isCompleted":false}]
